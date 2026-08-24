@@ -1,0 +1,61 @@
+name: 54ch10 Brief API
+description: >-
+  Pre-interaction JSON risk 'briefs' (heuristic scoring) for EVM addresses, tokens, and URLs, intended to be called
+  before a wallet signs, approves, bridges, or opens a dapp URL. Returns a score, band, flags, summary, and sources.
+  Supports free tier, Stripe API keys, and x402 agent-native pay-per-brief in USDC.
+url: https://raw.githubusercontent.com/api-evangelist/54ch10-brief-api/refs/heads/main/apis.yml
+created: '2026-08-24'
+modified: '2026-08-24'
+specificationVersion: '0.21'
+tags:
+  - web3
+  - blockchain-security
+  - evm
+  - wallet-risk
+  - phishing-screening
+  - url-screening
+  - token-reputation
+  - address-reputation
+  - pre-transaction-analytics
+  - agent-tooling
+  - x402
+  - pay-per-call
+  - machine-payments
+  - usdc
+  - agent-native
+apis:
+  - name: 54ch10 Brief API
+    description: >-
+      REST API providing heuristic risk briefs for EVM addresses, tokens, and URLs via GET /v1/brief. Includes x402
+      discovery manifest and health endpoint. Supports free tier, Stripe Bearer keys, and x402 pay-per-brief.
+    humanURL: https://54ch10.uk
+    baseURL: https://54ch10.uk
+    tags:
+      - web3
+      - blockchain-security
+      - evm
+      - wallet-risk
+      - phishing-screening
+      - url-screening
+      - token-reputation
+      - address-reputation
+      - pre-transaction-analytics
+      - agent-tooling
+      - x402
+      - pay-per-call
+      - machine-payments
+      - usdc
+      - agent-native
+    properties:
+      - type: OpenAPI
+        url: https://54ch10.uk/openapi.json
+      - type: Documentation
+        url: https://54ch10.uk/AGENT.md
+maintainers:
+  - FN: 54ch10 Brief API
+    url: https://54ch10.uk
+generated:
+  by: apis.io/add
+  model: claude-opus-4-8
+  confidence: 95
+  at: '2026-08-24T10:50:35.633Z'
