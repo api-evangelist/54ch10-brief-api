@@ -4,6 +4,17 @@ description: >-
   before a wallet signs, approves, bridges, or opens a dapp URL. Returns a score, band, flags, summary, and sources.
   Supports free tier, Stripe API keys, and x402 agent-native pay-per-brief in USDC.
 url: https://raw.githubusercontent.com/api-evangelist/54ch10-brief-api/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 created: '2026-08-24'
 modified: '2026-08-24'
 specificationVersion: '0.21'
