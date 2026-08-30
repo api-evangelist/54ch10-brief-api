@@ -19,6 +19,22 @@ created: '2026-08-24'
 modified: '2026-08-24'
 specificationVersion: '0.21'
 tags:
+  - Web3
+  - blockchain-security
+  - EVM
+  - wallet-risk
+  - phishing-screening
+  - url-screening
+  - token-reputation
+  - address-reputation
+  - pre-transaction-analytics
+  - Agent Tooling
+  - x402
+  - pay-per-call
+  - Machine Payments
+  - USDC
+  - agent-native
+tags_raw:
   - web3
   - blockchain-security
   - evm
@@ -42,6 +58,22 @@ apis:
     humanURL: https://54ch10.uk
     baseURL: https://54ch10.uk
     tags:
+      - Web3
+      - blockchain-security
+      - EVM
+      - wallet-risk
+      - phishing-screening
+      - url-screening
+      - token-reputation
+      - address-reputation
+      - pre-transaction-analytics
+      - Agent Tooling
+      - x402
+      - pay-per-call
+      - Machine Payments
+      - USDC
+      - agent-native
+    tags_raw:
       - web3
       - blockchain-security
       - evm
