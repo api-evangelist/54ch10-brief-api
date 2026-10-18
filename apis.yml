@@ -33,7 +33,7 @@ tags:
   - pay-per-call
   - Machine Payments
   - USDC
-  - agent-native
+  - Agent-Native
 tags_raw:
   - web3
   - blockchain-security
@@ -72,7 +72,7 @@ apis:
       - pay-per-call
       - Machine Payments
       - USDC
-      - agent-native
+      - Agent-Native
     tags_raw:
       - web3
       - blockchain-security
